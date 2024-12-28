@@ -1,7 +1,7 @@
 # Wholesale-Market-Basket-Analysis
 
 ## Overview
-This project applies Market Basket Analysis (MBA) to uncover purchasing patterns from a UK-based wholesale retailer dataset available at UCI. Using association rule mining techniques, the analysis identifies product relationships to inform inventory optimization, product bundling, and marketing strategies.
+This project applies Market Basket Analysis to uncover purchasing patterns from a UK-based wholesale retailer dataset available at UCI. Using association rule mining techniques, the analysis identifies product relationships to inform inventory optimization, product bundling, and marketing strategies.
 
 ## Key Insights:
 
@@ -21,8 +21,12 @@ Actionable Insight: Group similar designs into reusable bag collections to attra
 ## Cross-Category Opportunities:
 The market basket analysis uncovered compelling cross-category associations that highlight opportunities for targeted business strategies.
 
-High Tea Essentials Bundle: Products like the Regency Cakestand 3 Tier demonstrate strong associations with various teacups (Green, Pink, and Roses). This reveals a clear opportunity to create bundled offerings like "High Tea Essentials", appealing to aesthetic-minded customers who value cohesive dining experiences. These bundles could cater to wholesalers targeting retailers in the hospitality and gifting industries, such as boutique cafes, tea rooms, and high-end gift shops, enabling them to attract customers with curated, ready-to-use tea sets.
+#### High Tea Essentials Bundle: 
 
-Complementary Home Decor Collections: Items like Wooden Picture Frames and White Hanging Heart T-Light Holders frequently appear in the same transaction, reflecting their appeal as cohesive home decor pieces. This insight suggests potential for promoting pre-packaged gift sets tailored for home decor retailers or targeted promotions for aesthetic-focused consumers. Retailers in the home decor industry can capitalize on these associations to enhance their product offerings and drive sales in the gifting and interior design markets.
+Products like the Regency Cakestand 3 Tier demonstrate strong associations with various teacups (Green, Pink, and Roses). This reveals a clear opportunity to create bundled offerings like "High Tea Essentials", appealing to aesthetic-minded customers who value cohesive dining experiences. These bundles could cater to wholesalers targeting retailers in the hospitality and gifting industries, such as boutique cafes, tea rooms, and high-end gift shops, enabling them to attract customers with curated, ready-to-use tea sets.
+
+#### Complementary Home Decor Collections: 
+
+Items like Wooden Picture Frames and White Hanging Heart T-Light Holders frequently appear in the same transaction, reflecting their appeal as cohesive home decor pieces. This insight suggests potential for promoting pre-packaged gift sets tailored for home decor retailers or targeted promotions for aesthetic-focused consumers. Retailers in the home decor industry can capitalize on these associations to enhance their product offerings and drive sales in the gifting and interior design markets.
 
 These findings not only emphasize the importance of bundling strategies but also provide actionable insights for targeted promotions, curated collections, and product innovation across the gifting, hospitality, and home decor sectors.
