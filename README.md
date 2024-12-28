@@ -6,11 +6,13 @@ This project applies Market Basket Analysis (MBA) to uncover purchasing patterns
 ## Key Insights:
 
 #### Items: Regency Cakestand 3 Tier → Teacups (Green, Pink, Roses)
-Lift = 21.1,  Confidence = 88.0% //
+Lift = 21.1,  Confidence = 88.0%
+
 Actionable Insight: This strong association suggests creating a "High Tea Essentials" bundle, appealing to wholesalers targeting gift shops or hospitality retailers.
 
 #### Items: Wooden Picture Frame White Finish → White Hanging Heart T-Light Holder
-Lift = 13.8 | Confidence = 70.2% //
+Lift = 13.8 | Confidence = 70.2%
+
 Actionable Insight: Highlight the potential for a "Rustic Home Décor Set" to enhance upselling opportunities by marketing these items together.
 
 #### Items: Jumbo Bag Doiley Patterns and Lunch Bag Doiley Pattern
